@@ -2,7 +2,7 @@
 
 - Git checkout
 
-    git checkout
+    > git checkout
 
 - Git Switch
 - Git Branch
