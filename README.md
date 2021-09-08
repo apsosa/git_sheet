@@ -11,7 +11,7 @@
     
 - Git Switch
 - Git Branch :
-     Para crear un nuevo branch:
+     Para crear un nuevo branch local:
      
               git branch nombre_del_brach
      Para listar los branch locales:
@@ -23,7 +23,7 @@
      Para listar todos los branch :
               
               git branch -a
-     Para eliminar un branch :
+     Para eliminar un branch local :
             
               git branch -d nombre_del_branch_a_eliminar
      Para eliminar un brach del repositorio remoto:
