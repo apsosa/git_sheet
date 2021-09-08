@@ -26,6 +26,11 @@
      Para eliminar un branch :
             
               git branch -d nombre_del_branch_a_eliminar
+     Para eliminar un brach del repositorio remoto:
+            
+             git push origin --delete nombre_del_branch_a_eliminar
+            
+     
               
      
      
