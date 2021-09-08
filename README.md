@@ -1,5 +1,17 @@
 # Git Commands
 
+- Git Remote: 
+    Para verificar si existe un repositorio remoto activo:
+    
+        git remote -v
+    Para agregar un repositorio local existente al remoto:
+        
+        git remote  add origin url_del_repo_vacio
+-Git Push:
+    Para pushear un repositorio al upstream
+        
+        git push origin -u master
+    
 - Git checkout:
 
     Para cambiarse a un NUEVO branch (crea el branch al que se cambia):
