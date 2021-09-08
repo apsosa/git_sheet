@@ -9,7 +9,7 @@
               
               git checkout nombre_del_branch_a_cambiarse
     
-- Git Switch
+
 - Git Branch :
      Para crear un nuevo branch local:
      
@@ -31,10 +31,14 @@
              git push origin --delete nombre_del_branch_a_eliminar
             
      
-              
-     
-     
-              
+               
                      
-- Switch Bracnhes
-- 
+- Git Switch:
+     Para swichear a un branch:
+            
+            git switch nombre_del_branch
+     Para swichear a un NUEVO branch:
+            
+            git switch -c nombre_del_nuevo_branch
+            
+            
