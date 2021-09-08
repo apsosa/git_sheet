@@ -1,4 +1,4 @@
-# Git Basic Commands
+# Git Commands
 
 - Git checkout:
        Para crear cambiarse a un NUEVO branch:
