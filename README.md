@@ -23,6 +23,9 @@
      Para listar todos los branch :
               
               git branch -a
+     Para eliminar un branch :
+            
+              git branch -d nombre_del_branch_a_eliminar
               
      
      
