@@ -40,5 +40,8 @@
      Para swichear a un NUEVO branch:
             
             git switch -c nombre_del_nuevo_branch
-            
+     Para volver a la rama master:
+        
+            git switch -
+    
             
