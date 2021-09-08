@@ -11,7 +11,7 @@
     Para pushear un repositorio al upstream
         
         git push origin -u master
-    
+- Git Pull:
 - Git checkout:
 
     Para cambiarse a un NUEVO branch (crea el branch al que se cambia):
