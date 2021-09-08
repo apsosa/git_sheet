@@ -1,9 +1,13 @@
 # Git Commands
 
 - Git checkout:
-       Para crear cambiarse a un NUEVO branch:
+       Para cambiarse a un NUEVO branch (crea el branch al que se cambia):
 
-       git checkout -b nombre_del_nuevo_branch
+              git checkout -b nombre_del_nuevo_branch
+       
+       Para cambiar de branch:
+              
+              git checkout nombre_del_branch_a_cambiarse
 
 - Git Switch
 - Git Branch :
