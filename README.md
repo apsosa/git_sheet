@@ -11,6 +11,12 @@
     Para pushear un repositorio al upstream
         
         git push origin -u master
+   Para pushear un branch local al remoto
+    
+        git push origin -u nombre_del_branch
+    
+        
+  
 - Git Pull:
 - Git checkout:
 
