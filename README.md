@@ -8,7 +8,7 @@
     Para agregar un repositorio local existente al remoto:
         
         git remote  add origin url_del_repo_vacio
--Git Push:
+- Git Push:
     
    Para pushear un repositorio al upstream
         
